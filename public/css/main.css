@@ -1,6 +1,7 @@
 @import url(fonts.css);
+@import url(vars.css);
 
 body {
-  background-color: #1e1e2e;
-  color: #cdd6f4; 
+  background-color: var(--bkg-color);
+  color: var(--font-color); 
 }
