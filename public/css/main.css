@@ -3,5 +3,6 @@
 
 body {
   background-color: var(--bkg-color);
-  color: var(--font-color); 
+  width: 50vw;
+  margin: auto;
 }
