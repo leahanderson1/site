@@ -1,8 +1,6 @@
+@import url(fonts.css);
+
 body {
   background-color: #1e1e2e;
-  color: #cdd6f4;
-  font-family: 'JetBrains Mono', monospace;
-}
-a:link, a:visited {
-  color: #89b4fa;
+  color: #cdd6f4; 
 }
