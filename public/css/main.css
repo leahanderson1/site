@@ -6,3 +6,7 @@ body {
   width: 50vw;
   margin: auto;
 }
+
+img {
+    max-height: 15%;
+}
