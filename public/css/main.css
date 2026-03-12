@@ -1,0 +1,12 @@
+@import url(fonts.css);
+@import url(vars.css);
+
+body {
+  background-color: var(--bkg-color);
+  width: 50vw;
+  margin: auto;
+}
+
+img {
+    max-height: 25vh;
+}

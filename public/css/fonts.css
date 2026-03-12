@@ -1,0 +1,7 @@
+body {
+    color: var(--font-color);
+    font-family: 'JetBrains Mono', monospace;
+    text-align: center;
+}
+a:link, a:visited {color: #89b4fa;}
+.badges {display: inline-block;}
